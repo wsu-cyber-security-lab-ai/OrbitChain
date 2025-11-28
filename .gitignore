@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg*
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.env/
+*.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Data & runs
+runs/
+data/
+*.csv
+*.pt
+*.pth
+
+# Bytecode
+*.so
+*.dylib
+*.dll
+
+
+
